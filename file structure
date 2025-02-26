@@ -1,0 +1,7 @@
+Streamlit-User-Info-Form/
+│── README.md
+│── advance_form.py  # Main script for the Streamlit application
+│── requirements.txt # List of dependencies (e.g., Streamlit, Pandas)
+│── user_data.csv    # CSV file to store user data
+└── images/
+    └── screenshot.png  # Screenshot of the app in action
